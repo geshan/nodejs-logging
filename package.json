@@ -26,6 +26,8 @@
   },
   "homepage": "https://github.com/geshan/nodejs-logging#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-winston": "^4.0.5",
+    "winston": "^3.3.3"
   }
 }
