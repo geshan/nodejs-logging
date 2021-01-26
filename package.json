@@ -32,6 +32,7 @@
     "express-pino-logger": "^5.0.0",
     "express-winston": "^4.0.5",
     "loglevel": "^1.7.1",
+    "npmlog": "^4.1.2",
     "pino": "^6.11.0",
     "winston": "^3.3.3"
   }
