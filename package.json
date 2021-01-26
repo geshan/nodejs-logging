@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-logging",
+  "version": "1.0.0",
+  "description": "Node.js logging libraries quick examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geshan/nodejs-logging.git"
+  },
+  "keywords": [
+    "node.js",
+    "logging",
+    "winston",
+    "bunyan",
+    "pino",
+    "loglevel",
+    "npmlog"
+  ],
+  "author": "Geshan Manandhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geshan/nodejs-logging/issues"
+  },
+  "homepage": "https://github.com/geshan/nodejs-logging#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
